@@ -66,10 +66,16 @@ Run the Editor
 ./mp3editor song.mp3
 
 📌Help Menu
+
 <img width="428" height="270" alt="mp31" src="https://github.com/user-attachments/assets/8b6a0cad-ad57-4cea-9133-bd8a3b5ba079" />
 
+
+
 📌 Sample Output
+
 <img width="524" height="365" alt="Screenshot 2025-12-12 145853" src="https://github.com/user-attachments/assets/0526af63-092f-4ba4-ad75-31a990437fb2" />
+
+
 
 
 🌱 Future Enhancements
