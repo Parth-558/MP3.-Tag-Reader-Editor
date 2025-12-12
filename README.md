@@ -65,6 +65,10 @@ Run the Reader
 Run the Editor
 ./mp3editor song.mp3
 
+![mp3](https://github.com/user-attachments/assets/94ecc4a7-896e-4304-9cc1-399051b61b75)
+
+
+
 📌Help Menu
 
 <img width="428" height="270" alt="mp31" src="https://github.com/user-attachments/assets/8b6a0cad-ad57-4cea-9133-bd8a3b5ba079" />
